@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-25T00:20:31.807504"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Sopa de Tortilla",
+      "importance_rank": 2,
+      "page_number": 15
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 3,
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 4,
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Chiles Rellenos",
+      "importance_rank": 5,
+      "page_number": 15
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Layer 3 noodles, half the ricotta\nmixture, half the vegetables, and 1/3 of the mozzarella. Repeat layers.\n• Top with remaining noodles, marinara sauce, mozzarella, and Parmesan cheese.\n• Cover with foil and bake for 25 minutes. Add spinach and cook until wilted.\n• In a bowl, mix ricotta cheese, egg, salt, and pepper.\n• In a baking dish, spread a thin layer of marinara sauce",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "Sopa de Tortilla\n• Ingredients:\no 4 corn tortillas\no 1 tablespoon vegetable oil\no 1 small onion\no 2 cloves garlic\no 4 cups chicken broth\no 2 tomatoes\no 1 teaspoon cumin\no 1 avocado\no 1/4 cup cilantro\n• Instructions:\no Cut tortillas into strips and fry in oil until crispy.\no Sauté diced onion and minced garlic in a pot until translucent.\no Add diced tomatoes and cumin, cook for 5 minutes.\no Pour in chicken broth and bring to a boil.\no Simmer for 10 minutes.\no Serve soup topped with tortilla strips, diced avocado, and chopped cilantro.",
+      "page_number": 15
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Instructions:\n• Lay the tortilla flat and spread the hummus evenly.\n• Add the turkey, carrots, and spinach.\n• Roll up the tortilla tightly and slice in half.",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Ingredients:\n• 1 eggplant, diced\n• 1 zucchini, diced\n• 1 bell pepper, diced\n• 1 small onion, diced\n• 2 cloves garlic, minced\n• 4 tomatoes, diced",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Chiles Rellenos\n• Ingredients:\no 4 poblano peppers\no 1 cup shredded cheese\no 1/2 cup flour\no 4 eggs\no 1 cup vegetable oil\no 1 cup tomato sauce\n• Instructions:\no Roast peppers until charred, then peel and remove seeds.\no Stuff peppers with cheese.\no Separate eggs and beat whites until stiff, then fold in yolks.\no Dredge peppers in flour, then dip in egg mixture.\no Fry in hot oil until golden.\no Serve with warmed tomato sauce.",
+      "page_number": 15
+    }
+  ]
+}
